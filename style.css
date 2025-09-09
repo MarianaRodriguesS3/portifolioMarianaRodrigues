@@ -218,7 +218,9 @@ footer {
   }
 
   .footer-links {
-    flex-direction: column;
-    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
   }
 }
