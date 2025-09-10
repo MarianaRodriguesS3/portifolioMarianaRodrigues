@@ -24,3 +24,11 @@ currículo de forma interativa, moderna e responsiva — destacando minhas forma
 
 ---
 
+## Próximos passos
+
+- exibir link do github e do linkedin logo abaixo da foto de perfil
+- criar um botão que exiba um qr code com o link do meu cv
+- garantir que está responsivo
+- colocar todas as informações importantes no footer
+- adicionar uma seção que networking usando api do linkedin: 2 conexões, 2 empresas, 2 eventos
+- uma seção de indicação. quem estiver vendo o seu site, poderá te escrever uma breve mensagem que será enviada para o seu email
